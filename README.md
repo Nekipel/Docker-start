@@ -19,6 +19,7 @@ Cхему либо пользователя и его пароль можно и
 
 Dockerfile:
 https://www.youtube.com/watch?v=gir9Ay4pQU4&list=PLD5U-C5KK50XMCBkY0U-NLzglcRHzOwAg&index=6&ab_channel=DKA-DEVELOP
+https://www.youtube.com/playlist?list=PLD5U-C5KK50XMCBkY0U-NLzglcRHzOwAg
 
 https://www.youtube.com/watch?v=_uZQtRyF6Eg&ab_channel=BogdanStashchuk - лекция
 https://dev.to/sandrogiacom/run-mysql-on-docker-and-use-in-your-java-app-jpn - статья
